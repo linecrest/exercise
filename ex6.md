@@ -1,0 +1,1 @@
+This is a temporary file for exercise 6.
